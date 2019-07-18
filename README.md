@@ -1,2 +1,2 @@
 # Duplicate-questions
-A machine learning model to detect duplicate questions on quora
+A machine learning model to detect duplicate questions on Quora
