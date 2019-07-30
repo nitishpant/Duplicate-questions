@@ -1,4 +1,3 @@
 # Duplicate-questions
-A machine learning model to detect duplicate questions on Quora.
+A machine learning model to detect duplicate questions.
 
-More information is available on https://www.kaggle.com/c/quora-question-pairs
